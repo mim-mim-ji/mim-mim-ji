@@ -15,10 +15,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Commit &amp; Push
+      - name: Commit & Push
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name mim-mim-ji
+          git config user.email smj9030@gmail.com
           git add -A .
           git commit -m "generated"
-          git push
+          git push -f origin main
