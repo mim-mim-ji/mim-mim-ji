@@ -1,10 +1,12 @@
-## Hi I'm @mim-mim-ji
-안녕하세요! 4년차 개발자 송민지입니다 **👋** 
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=minjiSong&textBg=false&fontSize=60&animation=twinkling&section=header&reversal=true&fontAlign=80&fontAlignY=40&desc=backend%20developer&descAlign=85&descAlignY=65)
 
-알고 있는 **지식을 공유**하는 것을 좋아합니다. 
-
-개발 뿐만 아니라 여행, 맛집 등 다양한 정보들을 기록한 공간인 [**블로그**](http://blog.naver.com/smj9030)를 방문해주세요!
-
+## Contact me!
+<a href="mailto:smj9030@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="http://blog.naver.com/smj9030">
+  <img src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=blog&logoColor=white">
+</a>
 
 ## TechSkill
 <div>
