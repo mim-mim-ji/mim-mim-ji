@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## My Status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunggulee1007&show_icons=true&theme=shades-of-purple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mim-mim-ji&show_icons=true&theme=shades-of-purple)
 
 ## Github
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
