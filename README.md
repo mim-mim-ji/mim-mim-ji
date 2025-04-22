@@ -16,9 +16,9 @@
  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
  <img src="https://img.shields.io/badge/MSSQL-003B57?style=for-the-badge&logo=mssql&logoColor=white"/>
- <br>
+<!--  <br>
  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
- <img src="https://img.shields.io/badge/ABAP-FF6A00?style=for-the-badge&logo=abap&logoColor=white"/>
+ <img src="https://img.shields.io/badge/ABAP-FF6A00?style=for-the-badge&logo=abap&logoColor=white"/> -->
 
  </div>
 <!---
